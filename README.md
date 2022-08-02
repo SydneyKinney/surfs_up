@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview 
-The purpose of this analysis is to gain more information about temperature trends before opening the surf shop. Specifically looking at temperature data for the months of June and December in Oahu in order to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of this analysis is to gain more information about temperature trends before opening a surf shop. Specifically looking at temperature data for the months of June and December in Oahu in order to determine if a surf shop business is sustainable year-round.
 ## Results
 -The average temperature for June was about 75 degrees. This was the average taken from 1700 different temperatures. The highest temperature for June was 85 degrees and the lowest temperature was 64 degrees.
 
