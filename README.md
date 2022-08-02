@@ -8,14 +8,14 @@ The purpose of this analysis is to gain more information about temperature trend
 
 -The highest temperatures for June and December were very close (June: 85 degrees, December: 83 degrees)
 
-### June Statistics
+#### June Statistics
 
 ![june](https://user-images.githubusercontent.com/107209737/182484760-2ba82e5d-79e3-41e0-86c4-8ca76dbd35dc.png)
 
 
-### December Statistics
+#### December Statistics
 
 ![dec](https://user-images.githubusercontent.com/107209737/182484774-62adb445-85dd-4b9c-82da-10b8d28bda8c.png)
 
 ## Summary
-After analyzing the temperature data, I believe an ice cream surf shop would be successful year-round in Oahu. The average temperatures for June and December are very close. The data shows that the temperature does not drastically change in Oahu year-round. Two additional queries that would support this data would be histograms for June and December. This would verify that Oahu would be an ideal location for an ice cream surf shop year-round.
+After analyzing the temperature data, I believe a surf shop would be successful year-round in Oahu. The average temperatures for June and December are very close. The data shows that the temperature does not drastically change in Oahu year-round. Two additional queries that would support this data would be histograms for June and December. This would verify that Oahu would be an ideal location for a surf shop year-round.
